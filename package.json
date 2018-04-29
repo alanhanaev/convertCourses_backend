@@ -1,0 +1,35 @@
+{
+  "name": "digitalworlds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^2.2.1",
+    "axios": "^0.18.0",
+    "bignumber.js": "^7.0.1",
+    "co-busboy": "^1.4.0",
+    "got": "^8.3.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "iconv-lite": "^0.4.21",
+    "koa": "^2.5.0",
+    "koa-better-body": "^3.0.4",
+    "koa-body": "^2.5.0",
+    "koa-body-parser": "^1.1.2",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "0.0.16",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-sslify": "^2.1.2",
+    "koa-static": "^4.0.2",
+    "monk": "^6.0.5",
+    "request": "^2.85.0",
+    "serialize-error": "^2.1.0",
+    "xml-parse": "^0.3.1"
+  }
+}
